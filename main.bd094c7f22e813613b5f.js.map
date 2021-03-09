@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./js/test.js","webpack:///./index.js"],"names":["alert"],"mappings":"4EAAAA,MAAM,W,yDCAN,6B","file":"main.bd094c7f22e813613b5f.js","sourcesContent":["alert('privet')","import './styles.css';\r\nimport './js/test'"],"sourceRoot":""}
